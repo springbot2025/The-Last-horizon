@@ -1,0 +1,67 @@
+# Unity生成的文件
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity自动生成的meta文件（保留，但可以忽略某些）
+# 注意：Unity的.meta文件通常应该提交，但这里可以根据需要调整
+
+# Visual Studio缓存
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Unity项目设置（通常需要提交）
+# ProjectSettings/  # 取消注释这行来忽略项目设置
+
+# 编译生成的文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity生成的DLL
+*.dll
+*.exe
+
+# Unity缓存
+AssetStoreTools/
+[Oo]bj/
+
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE文件
+*.swp
+*.swo
+*~
+.idea/
+
+# 备份文件
+*.backup
+*.bak
+*~
+
