@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 281ae9a5e6af4bc47bc63c2abdde84a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - grassMaterial: {fileID: 2100000, guid: a4bc31fd35b19ee4c8e114bc0b76f4ba, type: 2}
+  - waterMaterial: {fileID: 2100000, guid: 972cfcb915cb17d4bb3804dea4365cc8, type: 2}
+  - ruinsMaterial: {fileID: 2100000, guid: 4e7e5501156bc48478067ca4c28426e1, type: 2}
+  - castleMaterial: {fileID: 2100000, guid: a3085723858f6664fba28e14200abba6, type: 2}
+  - swampMaterial: {fileID: 2100000, guid: d73c63a4bba9fad439602e33a8418ed5, type: 2}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

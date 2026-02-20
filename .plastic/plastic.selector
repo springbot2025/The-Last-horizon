@@ -1,0 +1,4 @@
+repository "The last horizon@tj_springbot@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
